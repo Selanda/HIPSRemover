@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\McAfee\HIP]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\enterceptAgent]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Entercept\EnterceptAgent]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Network Associates\McAfee Fire]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ McAfee Host Intrusion Prevention Tray]

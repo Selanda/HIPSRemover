@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\enterceptAgent]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FirePM]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\firelm01]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FireTDI]

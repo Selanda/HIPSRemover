@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\SharedDlls]
+"C:\Program Files\Common Files\McAfee Inc.\TalkBack\dbghelp.dll"=-
+"C:\Program Files\Common Files\McAfee Inc.\TalkBack\TBMon.exe"=-
+"C:\Program Files\Common Files\McAfee Inc.\TalkBack\TBMon.loc"=-
+"C:\Program Files\Common Files\McAfee Inc\TalkBack\TBMon.exe"=-
