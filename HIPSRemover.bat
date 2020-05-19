@@ -1,7 +1,6 @@
 @echo off
 cls
 echo McAfee Host Instrusion Prevention Software (HIPS) Removal Tool
-echo (Only for use on CWOPA Windows XP computers)
 echo.
 echo.
 echo Step 1 - Disabling the Host Intrusion Prevention agent...
@@ -64,6 +63,5 @@ echo.
 echo.
 echo If no error messages appear above, the removal was successful.
 echo Please restart the system to complete the uninstallation.
-echo Thank you for using the CWOPA HIPS Removal Tool! --Selanda
 echo.
 pause
